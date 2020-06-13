@@ -1,0 +1,15 @@
+.other-det{
+    margin: 20px 10% 0 10%;
+    background: rgba(245, 245, 245, 0.08);
+    border-radius: 5px;
+    padding: 20px 0px;
+}
+.other-det h2{
+    margin-left: 20px;
+    color: #D2D2D2;
+}
+.other-det ul{
+    color:#D2D2D2;
+    margin-left: 28px;
+    line-height: 25px;
+}

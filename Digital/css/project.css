@@ -1,0 +1,33 @@
+
+.project-det{
+    margin: 20px 10% 0 10%;
+    background: rgba(245, 245, 245, 0.08);
+    border-radius: 5px;
+    padding: 20px 0px;
+}
+.project-det h2{
+    margin-left: 20px;
+    color: #D2D2D2;
+}
+.project-det table{
+    width: 70%;
+    margin-left: 20%;
+    color:#D2D2D2;
+    height: 200px;
+    margin-bottom: 20px;
+    text-align: left;
+}
+.project-det h3{
+    color:#D2D2D2;
+    margin-left: 25px;
+}
+.project-det p{
+    color:#D2D2D2;
+    margin-left: 28px;
+    line-height: 25px;
+}
+.project-det ul{
+    color:#D2D2D2;
+    margin-left: 28px;
+    line-height: 25px;
+}

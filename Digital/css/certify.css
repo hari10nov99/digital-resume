@@ -1,0 +1,74 @@
+.certify-det{
+    margin: 20px 10% 0 10%;
+    background: rgba(245, 245, 245, 0.08);
+    border-radius: 5px;
+    padding: 20px 0px;
+}
+.certify-det h2{
+    margin-left: 20px;
+    color: #D2D2D2;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    padding: 10px;
+  }
+  .grid-item {
+    padding: 10px;
+    text-align: center;
+  }
+ .grid-item img{
+    width:80%;
+    height: auto;
+    border-radius: 2px;
+    border-style: solid;
+    border-color: transparent;
+    padding: 5px;
+    transition-duration: 0.3s;
+    border-radius: 5px;
+  }
+  .grid-item img:hover{
+      border: #D2D2D2 2px solid;
+      cursor: pointer;
+  }
+  .close {
+    position: absolute;
+    top: 15px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+    cursor: pointer;
+  }
+  .close:hover{
+      color: #E55C49;
+  }
+  
+  /* The Modal (background) */
+  .modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto;
+    background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+  }
+  .modal-content {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 500px;
+  }
+  
+  .modal-content {  
+    -webkit-animation-name: zoom;
+    -webkit-animation-duration: 0.6s;
+    animation-name: zoom;
+    animation-duration: 0.6s;
+  }
+  

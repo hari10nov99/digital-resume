@@ -1,0 +1,21 @@
+.contact-det img{
+    width: 20px;
+    height: auto;
+}
+.contact-det{
+    margin-left: 19.2%;
+    margin-right: 19.2%;
+    background: rgba(245, 245, 245, 0.08);
+    border-radius: 5px;
+    padding: 20px 0px;;
+}
+.contact-det table{
+    width: 50%;
+    margin-left: 30%;
+    color:#D2D2D2;
+    height: 250px;
+    margin-bottom: 20px;
+}
+.contact-det h2{
+    color: #D2D2D2;
+}
